@@ -1,3 +1,10 @@
 :root {
-    --
+    --primary-text-color:#212121;
+    --secondary-text-color: #757575;
+    --primare-bgc-color: #E5E5E5;
+    --secondary-bgc-color: #2F303A;
+
 }
+
+.header { 
+    background-color: var(--primary-text-color);}
