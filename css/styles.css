@@ -148,6 +148,34 @@ body {
 /* main-index.html end */
 
 /* main-portfolio */
+    /* filter */
+.filter {
+    line-height: 1.62;
+}
+.filter-item {
+    font-weight: var(--medium-font);
+    font-size: 16px;
+    text-align: center;
+    background-color: #F5F4FA;
+}
+
+.filter-item:hover,
+.filter-item:focus {
+    color: #FFFFFF;
+    background-color: var(--hover-text-color);
+}
+
+    /* filter end */
+    /* ourworks list */
+.ourworks-title {
+    letter-spacing: 0.06em;
+}
+
+.ourworks-subtitle {
+    color: var(--secondary-text-color);
+    letter-spacing: 0.03em;
+}
+
 
 /* main-portfolio end*/
 
