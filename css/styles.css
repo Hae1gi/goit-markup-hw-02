@@ -60,7 +60,6 @@ body {
     font-weight: var(--medium-font);
     font-size: 14px;
     line-height: 1.14;
-    letter-spacing: 0.02em;
 }
 
 .nav-item:hover,
@@ -72,6 +71,10 @@ body {
     /* contacts */
 .contacts-item {
     color: var(--secondary-text-color);
+    font-weight: var(--medium-font);
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
 }
 
 .contacts-item:hover,
